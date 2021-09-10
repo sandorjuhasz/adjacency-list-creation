@@ -1,2 +1,5 @@
-# adjacency-list-creation
-Code to identify neighboring regions from shape file
+# Adjacency list creation from shapefiles
+
+Constructing a list of neighboring regions from .shp files.
+
+Example -- adjacency list of EU NUTS2 regions
